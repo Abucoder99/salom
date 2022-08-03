@@ -1,0 +1,14 @@
+.card:hover img{
+transform: scale(1.2);
+}
+.card img{
+    transition: all .4s ease;
+
+}
+.card{
+    overflow: hidden;
+}
+form #bt{
+    text-decoration: none;
+    color: white;
+}
